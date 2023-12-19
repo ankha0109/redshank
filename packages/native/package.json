@@ -1,5 +1,5 @@
 {
-  "name": "@redshank/native",
+  "name": "@ankhbayar/redshank",
   "version": "2.0.16",
   "description": "Red Shank Design component & UI Toolkit",
   "main": "dist/index.js",
@@ -76,6 +76,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-shank/redshank.git"
+    "url": "git+https://github.com:ankha0109/redshank.git"
   }
 }
